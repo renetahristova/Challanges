@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\bin\Debug\netcoreapp3.1\Staircase Challange.exe
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\bin\Debug\netcoreapp3.1\Staircase Challange.deps.json
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\bin\Debug\netcoreapp3.1\Staircase Challange.runtimeconfig.json
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\bin\Debug\netcoreapp3.1\Staircase Challange.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\bin\Debug\netcoreapp3.1\Staircase Challange.dll
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\bin\Debug\netcoreapp3.1\Staircase Challange.pdb
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\obj\Debug\netcoreapp3.1\Staircase Challange.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\obj\Debug\netcoreapp3.1\Staircase Challange.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\obj\Debug\netcoreapp3.1\Staircase Challange.AssemblyInfo.cs
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\obj\Debug\netcoreapp3.1\Staircase Challange.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\obj\Debug\netcoreapp3.1\Staircase Challange.dll
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\obj\Debug\netcoreapp3.1\Staircase Challange.pdb
+C:\Users\hp\Desktop\Melon\Melon Intership Problems\Staircase Challange\obj\Debug\netcoreapp3.1\Staircase Challange.genruntimeconfig.cache
